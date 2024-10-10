@@ -1,2 +1,3 @@
 # Sai-demo
-This id my first git repository
+This is my first git repository
+Author: shivani
